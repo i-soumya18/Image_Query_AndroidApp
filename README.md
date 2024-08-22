@@ -63,6 +63,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Contact
 
-For any inquiries, please visit [soumyaranjansahoo.tech](https://i_soumya18.github.io/).
+For any inquiries, please visit [soumyaranjansahoo.tech](https://i-soumya18.github.io/).
 
 ---
