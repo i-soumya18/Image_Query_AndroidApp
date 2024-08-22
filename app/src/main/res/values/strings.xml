@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image Query</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Welcome to Image Query</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Analyse the given image carefully, and futher proceed with the analysis</string>
+    <string name="image1_description">Cupcake</string>
+    <string name="image2_description">Cookies</string>
+    <string name="image3_description">Cake</string>
+    <string name="results_placeholder"></string>
+</resources>
